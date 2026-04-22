@@ -224,20 +224,20 @@ El objetivo del método de Gauss es transformar un sistema de ecuaciones lineale
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b2f3163fecaf2cea5e85c59e5c7bb572ce4b9b95/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminacion%20Gaussiana/src/eliminacion/gaussiana/EliminacionGaussiana.java)
+* [Ejemplo Detallado](./Tema%203/Eliminación%20Gaussiana/Ejemplo.py)
 
 Por ultimo se muestran los resultados obtenidos
 
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/eba1d99b-87ca-4888-b26a-85f136e2415c)
+<p align="center">
+  <img src="./img/gaussiana.png" alt="Método de ELIMINACIÓN GAUSSIANA" width="600px">
+</p>
 
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-* [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b2f3163fecaf2cea5e85c59e5c7bb572ce4b9b95/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminacion%20Gaussiana/src/eliminacion/gaussiana/EliminacionGaussiana.java)
-
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/75fd44dc9d8bfacb7aae359557abffd0ba463001/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminaci%C3%B3nGaussiana2/src/eliminaci%C3%B3ngaussiana2/Eliminaci%C3%B3nGaussiana2.java)
-
-* [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c52eeeb06ef40b47154c58731297ca446c59d0ec/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminacion%20Gaussiana%203/src/eliminacion/gaussiana/pkg3/EliminacionGaussiana3.java)
+* [Ejemplo 1: Sistema 2x2](./Tema%203/Eliminación%20Gaussiana/Ejemplo1.py)
+* [Ejemplo 2: Sistema 3x3](./Tema%203/Eliminación%20Gaussiana/Ejemplo2.py)
+* [Ejemplo 3: Sistema 4x4](./Tema%203/Eliminación%20Gaussiana/Ejemplo3.py)
 
 ---
 
