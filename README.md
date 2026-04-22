@@ -273,19 +273,19 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/48fdcf6c77afb44befcc3a774d33c857aeccad83/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan/src/gauss/jordan/GaussJordan.java)
+* [Ejemplo Detallado Paso a Paso](./Tema%203/Gauss%20Jordan/Ejemplo.py)
 
-Aquí se percibe la continuación del metodo y tambien el resultado obtenido
+Por ultimo se muestran los resultados obtenidos
 
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/2f23bb22-afda-483e-b8bb-2436277eba8c)
+<p align="center">
+  <img src="./img/gauss-jordan.png" alt="Método de Gauss Jordan" width="600px">
+</p>
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-* [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/48fdcf6c77afb44befcc3a774d33c857aeccad83/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan/src/gauss/jordan/GaussJordan.java)
-
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/48fdcf6c77afb44befcc3a774d33c857aeccad83/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan%202/src/gauss/jordan/pkg2/GaussJordan2.java)
-
-* [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/48fdcf6c77afb44befcc3a774d33c857aeccad83/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan%203/src/gauss/jordan/pkg3/GaussJordan3.java)
+* [Ejemplo 1: Sistema 2x2](./Tema%203/Gauss%20Jordan/Ejemplo1.py)
+* [Ejemplo 2: Sistema 3x3](./Tema%203/Gauss%20Jordan/Ejemplo2.py)
+* [Ejemplo 3: Sistema 4x4](./Tema%203/Gauss%20Jordan/Ejemplo3.py)
 
 ---
 
