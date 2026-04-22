@@ -158,6 +158,10 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 
 ## Newton_Rapson
 
+<p align="center">
+  <img src="./img/newton.png" alt="Método de Newton-Raphson" width="600px">
+</p>
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
 El método de Newton-Raphson, también conocido como el método de Newton, es un algoritmo utilizado para encontrar raíces de funciones. Es un método iterativo que utiliza la derivada de la función para aproximarse a la raíz.
@@ -178,19 +182,15 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton/src/newton/Newton.java)
+* [Ejemplo Base: Raíz de 2](./Tema%202/Newton/Ejemplo.py)
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-* [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton/src/newton/Newton.java)
-
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton2/src/newton2/Newton2.java)
-
-* [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton3/src/newton3/Newton3.java)
-
-* [Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton4/src/newton4/Newton4.java)
-
-* [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton5/src/newton5/Newton5.java)
+* [Ejemplo 1: Función Polinómica](./Tema%202/Newton/Ejemplo1.py)
+* [Ejemplo 2: Función Exponencial](./Tema%202/Newton/Ejemplo2.py)
+* [Ejemplo 3: Función Trigonométrica](./Tema%202/Newton/Ejemplo3.py)
+* [Ejemplo 4: Función Logarítmica](./Tema%202/Newton/Ejemplo4.py)
+* [Ejemplo 5: Polinomio de tercer grado](./Tema%202/Newton/Ejemplo5.py)
 
 ---
 
