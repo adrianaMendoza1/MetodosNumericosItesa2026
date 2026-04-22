@@ -2,6 +2,8 @@
 >Divide y venceras
 
 ## Índice
+* [Tema 1](#Tema_1)
+   * []()
 * [Tema 2](#Tema_2)
    * [Bisección](#Bisección)
    * [Regla falsa](#Regla_Falsa)
@@ -65,23 +67,14 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 5. Salida: Devuelve el punto medio c como la aproximación de la raíz.
 
 ### Implementación
-
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/db4fa5e81cc0fbc41ad02d7fb25ee52ff1e5fb6e/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion/src/biseccion/Biseccion.java)
-
+* [Ejemplo base](./Tema%202/Bisección/Ejemplo.py)
 
 ### Ejercicios
-
-* [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/db4fa5e81cc0fbc41ad02d7fb25ee52ff1e5fb6e/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion/src/biseccion/Biseccion.java)
-
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/6fa31e21461ec8570b82768f7f0e989b51baa5a4/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion2/src/biseccion2/Biseccion2.java)
-
-* [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/6fa31e21461ec8570b82768f7f0e989b51baa5a4/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion3/src/biseccion3/Biseccion3.java)
-
-* [Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/6fa31e21461ec8570b82768f7f0e989b51baa5a4/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion4/src/biseccion4/Biseccion4.java)
-
-* [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/6fa31e21461ec8570b82768f7f0e989b51baa5a4/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion5/src/biseccion5/Biseccion5.java)
-
----
+* [Ejercicio 1](./Tema%202/Bisección/Ejemplo1.py)
+* [Ejercicio 2](./Tema%202/Bisección/Ejemplo2.py)
+* [Ejercicio 3](./Tema%202/Bisección/Ejemplo3.py)
+* [Ejercicio 4](./Tema%202/Bisección/Ejemplo4.py)
+* [Ejercicio 5](./Tema%202/Bisección/Ejemplo5.py)
 
 ## Regla_Falsa
 
