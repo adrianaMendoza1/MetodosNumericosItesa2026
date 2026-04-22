@@ -159,7 +159,7 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 ## Newton_Rapson
 
 <p align="center">
-  <img src="./img/newton.png" alt="Método de Newton-Raphson" width="600px">
+  <img src="./img/newton.jpg" alt="Método de Newton-Raphson" width="600px">
 </p>
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
