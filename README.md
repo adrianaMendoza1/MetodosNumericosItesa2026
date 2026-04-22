@@ -318,18 +318,18 @@ El proceso comienza con una aproximación inicial de las soluciones del sistema.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel/src/gauss/seidel/GaussSeidel.java)
+* [Ejemplo con Tabla de Iteraciones](./Tema%203/Gauss%20Seidel/Ejemplo.py)
 
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/cec924b4-4df4-45fa-a9cc-5c5df746f090)
+<p align="center">
+  <img src="./img/seidel.png" alt="Método de Gauss Seidel" width="600px">
+</p>
 
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-* [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel/src/gauss/seidel/GaussSeidel.java)
-
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel%202/src/gauss/seidel/pkg2/GaussSeidel2.java)
-
-* [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel%203/src/gauss/seidel/pkg3/GaussSeidel3.java)
+* [Ejemplo 1: Sistema 3x3](./Tema%203/Gauss%20Seidel/Ejemplo1.py)
+* [Ejemplo 2: Sistema 2x2](./Tema%203/Gauss%20Seidel/Ejemplo2.py)
+* [Ejemplo 3: Sistema 4x4](./Tema%203/Gauss%20Seidel/Ejemplo3.py)
 
 ---
 
@@ -374,18 +374,18 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi%203/src/jacobi/pkg3/Jacobi3.java)
+* [Ejemplo con Tabla de Convergencia](./Tema%203/Jacobi/Ejemplo.py)
 
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/dfda0ab6-3841-45c9-91f7-1c9dc023953e)
+<p align="center">
+  <img src="./img/jacobi.png" alt="Método de Jacobi" width="600px">
+</p>
 
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-* [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
-
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi%202/src/jacobi/pkg2/Jacobi2.java)
-
-* [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi%203/src/jacobi/pkg3/Jacobi3.java)
+* [Ejemplo 1: Sistema 3x3](./Tema%203/Jacobi/Ejemplo1.py)
+* [Ejemplo 2: Sistema 2x2](./Tema%203/Jacobi/Ejemplo2.py)
+* [Ejemplo 3: Sistema 4x4](./Tema%203/Jacobi/Ejemplo3.py)
 
 ---
 
