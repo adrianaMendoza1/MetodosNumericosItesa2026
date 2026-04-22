@@ -391,7 +391,7 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 # Tema_4
 
-## Metodos_de_diferenciacióm
+## Metodos_de_diferenciación
 
 ### Regla_de_tres_puntos
 
@@ -412,13 +412,14 @@ El algoritmo para aplicar esta regla en un conjunto de datos sería:
 
 #### Implementación
 
-* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/d23c710bac81cd00d0f2b1215cc1a6a92dfbeef4/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%203%20puntos/ejemplo%20regla%20de%20los%203%20puntos/src/ejemplo/regla/de/los/pkg3/puntos/EjemploReglaDeLos3Puntos.java)
+* [Ejemplo](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejemplo.py)
 
 #### Ejercicios
 
-* [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/5069cbc64ec169ed4acdd98977ce5e6193e6fa64/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%203%20puntos/Regla%20de%20los%203%20puntos/src/regla/de/los/pkg3/puntos/ReglaDeLos3Puntos.java)
-* [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/37f5daf29f6ad3c72e61c0469a345fa47f200e75/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%203%20puntos/regla%20de%20los%203%20puntos%202/src/regla/de/los/pkg3/puntos/pkg2/ReglaDeLos3Puntos2.java)
-* [Ejercicio3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/8147fcec229dd5331dcb75e395fd9efc2b94dfd9/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%203%20puntos/regla%20de%20los%203%20puntos%203/src/regla/de/los/pkg3/puntos/pkg3/ReglaDeLos3Puntos3.java)
+* [Ejercicio1](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejercicio1.py)
+* [Ejercicio2](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejercicio2.py)
+* [Ejercicio3](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejercicio3.py)
+
 ---
 
 ### Regla_de_cinco_puntos
@@ -441,16 +442,16 @@ Se debe encontrar un valor óptimo para ℎ dependiendo de la función y los dat
 
 #### Implementación
 
-* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/a7b748d020c6f320b8cda3708d4323471beffccc/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%205%20puntos/ejemplo%20regla%20de%20los%205%20puntos/src/ejemplo/regla/de/los/pkg5/puntos/EjemploReglaDeLos5Puntos.java)
+* [Ejemplo](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejemplo.py)
 
 #### Ejercicios
 
-* [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/1b7bf167cadb7caf5f5891e8e0446d431961a543/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%205%20puntos/regla%20de%20los%205%20puntos/src/regla/de/los/pkg5/puntos/ReglaDeLos5Puntos.java)
-* [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/8dfc43d59702e8881f86434ee290ec7412d2b799/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%205%20puntos/regla%20de%20los%205%20puntos%202/src/regla/de/los/pkg5/puntos/pkg2/ReglaDeLos5Puntos2.java)
-* [Ejercicio3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/cfaf4b0fa369eb87a66a81407202e4bf134d92d6/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%205%20puntos/regla%20de%20los%205%20puntos%203/src/regla/de/los/pkg5/puntos/pkg3/ReglaDeLos5Puntos3.java)
+* [Ejercicio1](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejercicio1.py)
+* [Ejercicio2](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejercicio2.py)
+* [Ejercicio3](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejercicio3.py)
 ---
 
-## Metodos_de_integraación
+## Metodos_de_integración
 
 ### Metodo_del_Trapecio
 
@@ -478,13 +479,13 @@ Formula:
 
 #### Implementación
 
-* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/36dbf343b30fdf5b31158b2a2b2948b40fa14455/Tema%204%20Metodos/integraci%C3%B3n/Trapecio/ejemplo%20metodo%20del%20trapecio/src/ejemplo/metodo/del/trapecio/EjemploMetodoDelTrapecio.java)
+* [Ejemplo](./Tema%204/Integración/Trapecio/Ejemplo.py)
 
 #### Ejercicios
 
-* [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/defb8dab6c136c898d9e33e2f04ac7ecac5255e3/Tema%204%20Metodos/integraci%C3%B3n/Trapecio/metodo%20del%20trapecio/src/metodo/del/trapecio/MetodoDelTrapecio.java)
-* [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/a0f69edd41998b1bd769faf61d3fdf80e5a706f5/Tema%204%20Metodos/integraci%C3%B3n/Trapecio/metodo%20del%20trapecio%201/src/metodo/del/trapecio/pkg1/MetodoDelTrapecio2.java)
-* [Ejercicio3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/54dc18f519740e3477acdc89c2798e783fbd6105/Tema%204%20Metodos/integraci%C3%B3n/Trapecio/Metodo%20del%20trapecio%203/src/metodo/del/trapecio/pkg3/MetodoDelTrapecio3.java)
+* [Ejercicio1](./Tema%204/Integración/Trapecio/Ejercicio1.py)
+* [Ejercicio2](./Tema%204/Integración/Trapecio/Ejercicio2.py)
+* [Ejercicio3](./Tema%204/Integración/Trapecio/Ejercicio3.py)
 ---
 
 ### Regla_de_Simpson
@@ -511,14 +512,14 @@ Formula:
 
 #### Implementación
 
-* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/075a4b05779fb3cb59d4a2b7728fbe26c8923b3e/Tema%204/integraci%C3%B3n/Simpson/ejemplo%20simpson/src/ejemplo/simpson/EjemploSimpson.java)
+* [Ejemplo](./Tema%204/Integración/Simpson/Ejemplo.py)
 
 
 #### Ejercicios
 
-* [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0929829701fe97553a3ffd7bacaf9c975db09eb/Tema%204%20Metodos/integraci%C3%B3n/Simpson/simpson%201/src/simpson/pkg1/Simpson1.java)
-* [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/05b05ac18b7ecf49417eace9cdacfaa0ad3042d3/Tema%204%20Metodos/integraci%C3%B3n/Simpson/simpson%202/src/simpson/pkg2/Simpson2.java)
-* [Ejercicio3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/90d4f7c4018f6bde6d6a9070f6d6e98b4f3b5354/Tema%204%20Metodos/integraci%C3%B3n/Simpson/simpson%203/src/simpson/pkg3/Simpson3.java)
+* [Ejercicio1](./Tema%204/Integración/Simpson/Ejercicio1.py)
+* [Ejercicio2](./Tema%204/Integración/Simpson/Ejercicio2.py)
+* [Ejercicio3](./Tema%204/Integración/Simpson/Ejercicio3.py)
 ---
 
 ### Método_de_la_cuadratura_gaussiana
@@ -540,13 +541,13 @@ Formula:
 
 #### Implementación
 
-* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/7950471be563b1a8b5c4299ec931874ae8f61a91/Tema%204/integraci%C3%B3n/Cuadratura%20Gausiana/Cuadratura%20gausiana/src/cuadratura/gausiana/CuadraturaGausiana.java)
+* [Ejemplo](./Tema%204/Integración/Cuadratura%20Gaussiana/Ejemplo.py)
 
 #### Ejercicios
 
-* [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f680bcd3b74c36b7170162b0043a80e1a88d4a92/Tema%204%20Metodos/integraci%C3%B3n/Cuadratura%20Gausiana/cuadratura%20guassiana%201/src/cuadratura/guassiana/pkg1/CuadraturaGuassiana1.java)
-* [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/52d4b83c568f5d3c4a534c6c7bdcf2faba220bd5/Tema%204%20Metodos/integraci%C3%B3n/Cuadratura%20Gausiana/cuadratura%20gausiana%202/src/cuadratura/gausiana/pkg2/CuadraturaGausiana2.java)
-* [Ejercicio3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/6e7b44440758b73e2848de216cfa7149307290d1/Tema%204%20Metodos/integraci%C3%B3n/Cuadratura%20Gausiana/cuadratura%20gausiana%203/src/cuadratura/gausiana/pkg3/CuadraturaGausiana3.java)
+* [Ejercicio1](./Tema%204/Integración/Cuadratura%20Gaussiana/Ejercicio1.py)
+* [Ejercicio2](./Tema%204/Integración/Cuadratura%20Gaussiana/Ejercicio2.py)
+* [Ejercicio3](./Tema%204/Integración/Cuadratura%20Gaussiana/Ejercicio3.py)
 ---
 
 ## Conclusión
