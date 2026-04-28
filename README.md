@@ -422,10 +422,10 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 # Tema_4
 
-### 🎥 Video de Demostración
-> **Nota:** Haz clic en el siguiente enlace para ver la explicación en video de los métodos del Tema 4.
-> 
-> [▶️ Ver Video_T4](./img/Video_T4.mp4)
+### 🎥 Video de Demostración del Tema 4
+[![Ver Video Explicativo](https://img.shields.io/badge/PLAY-Video_Explicativo_T4-red?style=for-the-badge&logo=youtube)](./img/Video_T4.mp4)
+
+> **Nota:** Si el video no se reproduce automáticamente, puedes [descargarlo aquí](./img/Video_T4.mp4).
 
 ## Metodos_de_diferenciación
 
