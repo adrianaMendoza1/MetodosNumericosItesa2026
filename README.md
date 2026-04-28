@@ -2,7 +2,8 @@
 >Divide y venceras
 
 ## Índice
-* [Tema 1](#Tema_1)
+## Índice
+* [Tema 1](#tema-1-teoría-de-errores)
     * [Ejemplo de Errores](./Tema%201/Ejemplo.py)
     * [Ejercicios de Teoría de Errores](./Tema%201/)
 * [Tema 2](#Tema_2)
@@ -16,6 +17,7 @@
     * [Metodo de Gauss Seidel](#MÉTODO_DE_Gauss_Seidel)
     * [Metodo de Jacobi](#Metodo_de_Jacobi)
 * [Tema 4](#Tema_4)
+    * [🎥 Video Explicativo Tema 4](./img/Video_T4.mp4)
     * [Metodos de diferenciación](#Metodos_de_diferenciación)
         * [Regla de tres puntos](#Regla_de_tres_puntos)
         * [Regla de cinco puntos](#Regla_de_cinco_puntos)
@@ -419,6 +421,11 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 ---
 
 # Tema_4
+
+### 🎥 Video de Demostración
+> **Nota:** Haz clic en el siguiente enlace para ver la explicación en video de los métodos del Tema 4.
+> 
+> [▶️ Ver Video_T4](./img/Video_T4.mp4)
 
 ## Metodos_de_diferenciación
 
