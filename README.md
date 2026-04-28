@@ -3,25 +3,26 @@
 
 ## Índice
 * [Tema 1](#Tema_1)
-   * []()
+    * [Ejemplo de Errores](./Tema%201/Ejemplo.py)
+    * [Ejercicios de Teoría de Errores](./Tema%201/)
 * [Tema 2](#Tema_2)
-   * [Bisección](#Bisección)
-   * [Regla falsa](#Regla_Falsa)
-   * [Secante](#Secante)
-   * [Newton Rapson](#Newton_Rapson)
+    * [Bisección](#Bisección)
+    * [Regla falsa](#Regla_Falsa)
+    * [Secante](#Secante)
+    * [Newton Rapson](#Newton_Rapson)
 * [Tema 3](#Tema_3)
-   * [Metodo de eliminación gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSIANA)
-   * [Metodo de Gauss Jordan](#MÉTODO_DE_GAUSS_JORDAN)
-   * [Metodo de Gauss Seidel](#Metodo_de_Gauss-Seidel)
-   * [Metodo de Jacobi](#Metodo_de_Jacobi)
- * [Tema 4](#Tema_4)
-   * [Metodos de diferencición](#Metodos_de_diferenciación)
-     * [Regla de tres puntos](#Regla_de_tres_puntos)
-     * [Regla de cinco puntos](#Regla_de_cinco_puntos)
-   * [Metodos de integración](#Metodos_de_integraación)
-     * [Metodo del Trapecio](#Metodo_del_Trapecio)
-     * [Regla de Simpson](#Regla_de_Simpson)
-     * [Método de la cuadratura gaussiana](#Método_de_la_cuadratura_gaussiana)
+    * [Metodo de eliminación gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSIANA)
+    * [Metodo de Gauss Jordan](#MÉTODO_DE_Gauss_JORDAN)
+    * [Metodo de Gauss Seidel](#MÉTODO_DE_Gauss_Seidel)
+    * [Metodo de Jacobi](#Metodo_de_Jacobi)
+* [Tema 4](#Tema_4)
+    * [Metodos de diferenciación](#Metodos_de_diferenciación)
+        * [Regla de tres puntos](#Regla_de_tres_puntos)
+        * [Regla de cinco puntos](#Regla_de_cinco_puntos)
+    * [Metodos de integración](#Metodos_de_integraación)
+        * [Metodo del Trapecio](#Metodo_del_Trapecio)
+        * [Regla de Simpson](#Regla_de_Simpson)
+        * [Método de la cuadratura gaussiana](#Método_de_la_cuadratura_gaussiana)
   * [Tema 5](#Tema_5)
     * [Metodos de interpolación](#Metodos_de_interpolación)
       * [Lineal](#Lineal)
@@ -34,6 +35,34 @@
       * [Runge-Kutta](#Runge-Kutta)
       * [Taylor](#Taylor)
 
+# Tema 1: Teoría de Errores
+
+## Concepto
+En métodos numéricos, los errores son la diferencia entre el valor real de una magnitud y el valor calculado mediante un algoritmo. Las computadoras tienen una precisión finita, lo que genera pequeñas desviaciones que pueden acumularse.
+
+Existen tres tipos principales de errores:
+1. **Error Absoluto:** Es la diferencia física entre el valor real y el aproximado.
+2. **Error Relativo:** Es el error absoluto dividido entre el valor real (da una idea de la importancia del error).
+3. **Error Porcentual:** Es el error relativo multiplicado por 100.
+
+### Fórmulas:
+* **Error Absoluto:** $E_a = |V_{real} - V_{aprox}|$
+* **Error Relativo:** $E_r = \frac{E_a}{|V_{real}|}$
+* **Error Porcentual:** $E_p = E_r \times 100\%$
+
+---
+
+## Implementación y Ejemplos
+
+### Ejemplo de Referencia
+* [Cálculo de Errores Base](./Tema%201/Ejemplo.py)
+
+### Ejemplos Prácticos
+* [Ejemplo 1: Error de Redondeo](./Tema%201/Ejemplo1.py)
+* [Ejemplo 2: Error de Truncamiento (Serie de Taylor)](./Tema%201/Ejemplo2.py)
+* [Ejemplo 3: Precisión de Máquina (Épsilon)](./Tema%201/Ejemplo3.py)
+* [Ejemplo 4: Error en Operaciones Aritméticas](./Tema%201/Ejemplo4.py)
+* [Ejemplo 5: Conversión Decimal a Binario](./Tema%201/Ejemplo5.py)
 
 # Tema_2
 
