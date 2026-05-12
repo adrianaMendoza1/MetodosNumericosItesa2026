@@ -82,7 +82,7 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 Por ultimo se muestran los resultados obtenidos
 
 <p align="center">
-  <img src="![Gauss Jordan]./img/gauss-jordan.png" alt="Método de Gauss Jordan" width="600px">
+  <img src="../img/gauss-jordan.png" width="600px">
 </p>
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
@@ -125,7 +125,7 @@ El proceso comienza con una aproximación inicial de las soluciones del sistema.
 * [Ejemplo con Tabla de Iteraciones](./Tema%203/Gauss%20Seidel/Ejemplo.py)
 
 <p align="center">
-  <img src="![Gauss Seidel]./img/seidel.png" alt="Método de Gauss Seidel" width="600px">
+  <img src="../img/seidel.png" width="600px">
 </p>
 
 
@@ -181,7 +181,7 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 * [Ejemplo con Tabla de Convergencia](./Tema%203/Jacobi/Ejemplo.py)
 
 <p align="center">
-  <img src="![Jacobi]./img/jacobi.png" alt="Método de Jacobi" width="600px">
+  <img src="../img/jacobi.png" width="600px">
 </p>
 
 
