@@ -1,7 +1,7 @@
 # Tema_4
 
 ### 🎥 Video de Demostración del Tema 4
-[![Ver Video Explicativo](https://img.shields.io/badge/PLAY-Video_Explicativo_T4-red?style=for-the-badge&logo=youtube)](./img/Video_T4.mp4)
+[![Ver Video](../img/miniatura_video.png)](../img/Video_T4.mp4)
 
 > **Nota:** Si el video no se reproduce automáticamente, puedes [descargarlo aquí](./img/Video_T4.mp4).
 
