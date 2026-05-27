@@ -1,42 +1,40 @@
 # MetodosNumericosItesa2025
 >Divide y venceras
 
-## Índice
-* [Tema 1](#tema-1-teoría-de-errores)
-    * [Ejemplo de Errores](./Tema%201/Ejemplo.py)
-    * [Ejercicios de Teoría de Errores](./Tema%201/)
-* [Tema 2](#Tema_2)
-    * [Bisección](#Bisección)
-    * [Regla falsa](#Regla_Falsa)
-    * [Secante](#Secante)
-    * [Newton Rapson](#Newton_Rapson)
-* [Tema 3](#Tema_3)
-    * [Metodo de eliminación gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSIANA)
-    * [Metodo de Gauss Jordan](#MÉTODO_DE_Gauss_JORDAN)
-    * [Metodo de Gauss Seidel](#MÉTODO_DE_Gauss_Seidel)
-    * [Metodo de Jacobi](#Metodo_de_Jacobi)
-* [Tema 4](#Tema_4)
-    * [🎥 Video Explicativo Tema 4](./img/Video_T4.mp4)
-    * [Metodos de diferenciación](#Metodos_de_diferenciación)
-        * [Regla de tres puntos](#Regla_de_tres_puntos)
-        * [Regla de cinco puntos](#Regla_de_cinco_puntos)
-    * [Metodos de integración](#Metodos_de_integraación)
-        * [Metodo del Trapecio](#Metodo_del_Trapecio)
-        * [Regla de Simpson](#Regla_de_Simpson)
-        * [Método de la cuadratura gaussiana](#Método_de_la_cuadratura_gaussiana)
-  * [Tema 5](#Tema_5)
-    * [Metodos de interpolación](#Metodos_de_interpolación)
-      * [Lineal](#Lineal)
-      * [Cuadratica](#Cuadratica)
-      * [Lagrange](#Lagrange)
-      * [Newton](#Newton)
-  * [Tema 6](#Tema_6)
-    * [Metodos de extrapolación](#Metodos_de_extrapolación)
-      * [Euler](#Euler)
-      * [Runge-Kutta](#Runge-Kutta)
-      * [Taylor](#Taylor) 
-
 ---
+
+## Índice
+
+Índice general de los temas e implementaciones desarrolladas en el curso.
+
+* [Tema 1](./Tema%201/README.md)
+    * [Ejemplo de Errores](./Tema%201/Ejemplo.py)
+    * [Ejercicios de Teoría de Errores](./Tema%201/README.md#conceptos-basicos)
+* [Tema 2](./Tema%202/README.md)
+    * [Bisección](./Tema%202/Bisección/Ejemplo.py)
+    * [Regla falsa](./Tema%202/Regla%20Falsa/Ejemplo.py)
+    * [Secante](./Tema%202/Secante/Ejemplo.py)
+    * [Newton Rapson](./Tema%202/Newton/Ejemplo.py)
+* [Tema 3](./Tema%203/README.md)
+    * [Metodo de eliminación gaussiana](./Tema%203/Eliminación%20Gaussiana/Ejemplo.py)
+    * [Metodo de Gauss Jordan](./Tema%203/Gauss%20Jordan/Ejemplo.py)
+    * [Metodo de Gauss Seidel](./Tema%203/Gauss%20Seidel/Ejemplo.py)
+    * [Metodo de Jacobi](./Tema%203/Jacobi/Ejemplo.py)
+* [Tema 4](./Tema%204/README.md)
+    * [🎬 Video Explicativo Tema 4](./img/Video_T4.mp4)
+    * [Metodos de diferenciación](./Tema%204/README.md#metodos-de-diferenciacion)
+        * [Regla de tres puntos](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejemplo.py)
+        * [Regla de cinco puntos](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejemplo.py)
+    * [Metodos de integración](./Tema%204/README.md#metodos-de-integracion)
+        * [Metodo del Trapecio](./Tema%204/Integración/Ejemplo.py)
+        * [Regla de Simpson](./Tema%204/Integración/Ejemplo2.py)
+        * [Método de la cuadratura gaussiana](./Tema%204/Integración/Ejemplo3.py)
+* [Tema 5](./Tema%205/README.md)
+    * [Metodos de interpolación](./Tema%205/README.md)
+        * [Lineal](./Tema%205/Lineal/Ejemplo.py)
+        * [Cuadratica](./Tema%205/Cuadratica/Ejemplo.py)
+        * [Lagrange](./Tema%205/Lagrange/Ejemplo.py)
+        * [Newton](./Tema%205/Newton/Ejemplo.py)
 
 ## Conclusión
 
