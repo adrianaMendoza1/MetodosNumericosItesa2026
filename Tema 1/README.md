@@ -19,10 +19,20 @@ Existen tres tipos principales de errores:
 
 ### Ejemplo de Referencia
 * [Cálculo de Errores Base](./Tema%201/Ejemplo.py)
+![Ejecución Cálculo de Errores Base](./img/T1_Ejemplo.png)
 
 ### Ejemplos Prácticos
 * [Ejemplo 1: Error de Redondeo](./Tema%201/Ejemplo1.py)
+![Ejecución Ejemplo 1](./img/T1_Ejemplo1.png)
+
 * [Ejemplo 2: Error de Truncamiento (Serie de Taylor)](./Tema%201/Ejemplo2.py)
+![Ejecución Ejemplo 2](./img/T1_Ejemplo2.png)
+
 * [Ejemplo 3: Precisión de Máquina (Épsilon)](./Tema%201/Ejemplo3.py)
+![Ejecución Ejemplo 3](./img/T1_Ejemplo3.png)
+
 * [Ejemplo 4: Error en Operaciones Aritméticas](./Tema%201/Ejemplo4.py)
+![Ejecución Ejemplo 4](./img/T1_Ejemplo4.png)
+
 * [Ejemplo 5: Conversión Decimal a Binario](./Tema%201/Ejemplo5.py)
+![Ejecución Ejemplo 5](./img/T1_Ejemplo5.png)
