@@ -29,15 +29,31 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 5. Salida: Devuelve el punto medio c como la aproximación de la raíz.
 
-### Implementación
-* [Ejemplo base](./Tema%202/Bisección/Ejemplo.py)
+### ### Ejemplo de Referencia
+* [Bisección Base](./Bisección/Ejemplo.py)
 
-### Ejercicios
-* [Ejercicio 1](./Tema%202/Bisección/Ejemplo1.py)
-* [Ejercicio 2](./Tema%202/Bisección/Ejemplo2.py)
-* [Ejercicio 3](./Tema%202/Bisección/Ejemplo3.py)
-* [Ejercicio 4](./Tema%202/Bisección/Ejemplo4.py)
-* [Ejercicio 5](./Tema%202/Bisección/Ejemplo5.py)
+![Ejecución Bisección Base](../img/T2_Ejemplo_Bise.png)
+
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Función Polinomial](./Bisección/Ejemplo1.py)
+
+![Ejecución Bisección Ejemplo 1](../img/T2_Ejemplo1_Bise.png)
+
+* [Ejemplo 2: Función Trigonométrica](./Bisección/Ejemplo2.py)
+
+![Ejecución Bisección Ejemplo 2](../img/T2_Ejemplo2_Bise.png)
+
+* [Ejemplo 3: Función Exponencial](./Bisección/Ejemplo3.py)
+
+![Ejecución Bisección Ejemplo 3](../img/T2_Ejemplo3_Bise.png)
+
+* [Ejemplo 4: Tolerancia Estricta](./Bisección/Ejemplo4.py)
+
+![Ejecución Bisección Ejemplo 4](../img/T2_Ejemplo4_Bise.png)
+
+* [Ejemplo 5: Análisis de Convergencia](./Bisección/Ejemplo5.py)
+
+![Ejecución Bisección Ejemplo 5](../img/T2_Ejemplo5_Bise.png)
 
 ## Regla_Falsa
 
@@ -66,17 +82,30 @@ Algoritmo utilizado para encontrar aproximaciones de las raíces de una función
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo de Regla Falsa](./Tema%202/Regla%20Falsa/Ejemplo.py)
+* [Regla Falsa Base](./Regla%20Falsa/Ejemplo.py)
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+![Ejecución Regla Falsa Base](../img/T2_Ejemplo_RF.png)
 
-### Ejercicios
-* [Ejercicio 1](./Tema%202/Regla%20Falsa/Ejemplo1.py)
-* [Ejercicio 2](./Tema%202/Regla%20Falsa/Ejemplo2.py)
-* [Ejercicio 3](./Tema%202/Regla%20Falsa/Ejemplo3.py)
-* [Ejercicio 4](./Tema%202/Regla%20Falsa/Ejemplo4.py)
-* [Ejercicio 5](./Tema%202/Regla%20Falsa/Ejemplo5.py)
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Aproximación de Raíz Real](./Regla%20Falsa/Ejemplo1.py)
 
+![Ejecución Regla Falsa Ejemplo 1](../img/T2_Ejemplo1_RF.png)
+
+* [Ejemplo 2: Evaluación con Intervalo Estrecho](./Regla%20Falsa/Ejemplo2.py)
+
+![Ejecución Regla Falsa Ejemplo 2](../img/T2_Ejemplo2_RF.png)
+
+* [Ejemplo 3: Función de Rápido Crecimiento](./Regla%20Falsa/Ejemplo3.py)
+
+![Ejecución Regla Falsa Ejemplo 3](../img/T2_Ejemplo3_RF.png)
+
+* [Ejemplo 4: Control de Tolerancia Mínima](./Regla%20Falsa/Ejemplo4.py)
+
+![Ejecución Regla Falsa Ejemplo 4](../img/T2_Ejemplo4_RF.png)
+
+* [Ejemplo 5: Comparativa de Pasos de Convergencia](./Regla%20Falsa/Ejemplo5.py)
+
+![Ejecución Regla Falsa Ejemplo 5](../img/T2_Ejemplo5_RF.png)
 ---
 
 ## Secante
@@ -107,15 +136,30 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo de Secante](./Tema%202/Secante/Ejemplo.py)
+* [Secante Base](./Secante/Ejemplo.py)
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+![Ejecución Secante Base](../img/T2_Ejemplo_Sec.png)
 
-* [Ejercicio 1](./Tema%202/Secante/Ejemplo1.py)
-* [Ejercicio 2](./Tema%202/Secante/Ejemplo2.py)
-* [Ejercicio 3](./Tema%202/Secante/Ejemplo3.py)
-* [Ejercicio 4](./Tema%202/Secante/Ejemplo4.py)
-* [Ejercicio 5](./Tema%202/Secante/Ejemplo5.py)
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Raíz en Intervalo Definido](./Secante/Ejemplo1.py)
+
+![Ejecución Secante Ejemplo 1](../img/T2_Ejemplo1_Sec.png)
+
+* [Ejemplo 2: Intersección de Funciones](./Secante/Ejemplo2.py)
+
+![Ejecución Secante Ejemplo 2](../img/T2_Ejemplo2_Sec.png)
+
+* [Ejemplo 3: Análisis de Funciones Logarítmicas](./Secante/Ejemplo3.py)
+
+![Ejecución Secante Ejemplo 3](../img/T2_Ejemplo3_Sec.png)
+
+* [Ejemplo 4: Comportamiento en Curvas Pronunciadas](./Secante/Ejemplo4.py)
+
+![Ejecución Secante Ejemplo 4](../img/T2_Ejemplo4_Sec.png)
+
+* [Ejemplo 5: Criterio de Parada por Tolerancia Absoluta](./Secante/Ejemplo5.py)
+
+![Ejecución Secante Ejemplo 5](../img/T2_Ejemplo5_Sec.png)
 
 ---
 
@@ -145,14 +189,30 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo Base: Raíz de 2](./Tema%202/Newton/Ejemplo.py)
+### ### Ejemplo de Referencia
+* [Newton Raphson Base](./Newton/Ejemplo.py)
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+![Ejecución Newton Raphson Base](../img/T2_Ejemplo_Newton.png)
 
-* [Ejemplo 1: Función Polinómica](./Tema%202/Newton/Ejemplo1.py)
-* [Ejemplo 2: Función Exponencial](./Tema%202/Newton/Ejemplo2.py)
-* [Ejemplo 3: Función Trigonométrica](./Tema%202/Newton/Ejemplo3.py)
-* [Ejemplo 4: Función Logarítmica](./Tema%202/Newton/Ejemplo4.py)
-* [Ejemplo 5: Polinomio de tercer grado](./Tema%202/Newton/Ejemplo5.py)
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Raíz de Polinomio Cúbico](./Newton/Ejemplo1.py)
+
+![Ejecución Newton Raphson Ejemplo 1](../img/T2_Ejemplo1_Newton.png)
+
+* [Ejemplo 2: Ecuación con Funciones Trascendentes](./Newton/Ejemplo2.py)
+
+![Ejecución Newton Raphson Ejemplo 2](../img/T2_Ejemplo2_Newton.png)
+
+* [Ejemplo 3: Convergencia Rápida Cuadrática](./Newton/Ejemplo3.py)
+
+![Ejecución Newton Raphson Ejemplo 3](../img/T2_Ejemplo3_Newton.png)
+
+* [Ejemplo 4: Comportamiento Cerca de Máximos/Mínimos](./Newton/Ejemplo4.py)
+
+![Ejecución Newton Raphson Ejemplo 4](../img/T2_Ejemplo4_Newton.png)
+
+* [Ejemplo 5: Tolerancia de Alta Precisión](./Newton/Ejemplo5.py)
+
+![Ejecución Newton Raphson Ejemplo 5](../img/T2_Ejemplo5_Newton.png)
 
 ---
