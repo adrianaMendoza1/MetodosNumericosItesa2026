@@ -17,14 +17,23 @@ El concepto básico de la interpolación lineal implica trazar una línea recta 
   3. Calcular el valor de y: Utiliza la fórmula para calcular el valor de y correspondiente al punto x utilizando los valores de x0, y0, x1, y1 y x.
   4. Resultado: El valor calculado de y es el resultado de la interpolación lineal en el punto x.
 
-#### Implementación
+### ### Ejemplo de Referencia
+* [Ajuste Lineal Base](./Lineal/Ejemplo.py)
 
-* [Ejemplo](./Lineal/Ejemplo.py)
+![Ejecución Ajuste Lineal Base](../img/T5_Ejemplo_Li.png)
 
-#### Ejercicios
-* [Ejemplo 1](./Lineal/Ejercicio1.py)
-* [Ejemplo 2](./Lineal/Ejercicio2.py)
-* [Ejemplo 3](./Lineal/Ejercicio3.py)
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Regresión Lineal Simple con Datos de Laboratorio](./Lineal/Ejemplo1.py)
+
+![Ejecución Ajuste Lineal Ejemplo 1](../img/T5_Ejemplo1_Li.png)
+
+* [Ejemplo 2: Cálculo del Coeficiente de Correlación Lineal (r)](./Lineal/Ejemplo2.py)
+
+![Ejecución Ajuste Lineal Ejemplo 2](../img/T5_Ejemplo2_Li.png)
+
+* [Ejemplo 3: Predicción y Cuantificación de Errores Estadísticos](../Lineal/Ejemplo3.py)
+
+![Ejecución Ajuste Lineal Ejemplo 3](../img/T5_Ejemplo3_Li.png)
 ---
 
 ### Cuadratica
@@ -40,13 +49,23 @@ El concepto básico de la interpolación cuadrática implica seleccionar tres pu
   5. Evaluar el polinomio cuadrático: Utiliza el polinomio cuadrático 𝑦 = 𝑎𝑥^2 + 𝑏𝑥 + 𝑐 con los coeficientes calculados para evaluar el valor de 𝑦 en el punto de interés 𝑥.
   6. Mostrar el resultado: Muestra el valor interpolado de 𝑦 en el punto 𝑥.
 
-#### Implementación
-* [Ejemplo](./Cuadratica/Ejemplo.py)
+### ### Ejemplo de Referencia
+* [Ajuste Cuadrático Base](./Cuadratica/Ejemplo.py)
 
-#### Ejercicios
-* [Ejemplo 1](./Cuadratica/Ejercicio1.py)
-* [Ejemplo 2](./Cuadratica/Ejercicio2.py)
-* [Ejemplo 3](./Cuadratica/Ejercicio3.py)
+![Ejecución Ajuste Cuadrático Base](../img/T5_Ejemplo_Cu.png)
+
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Regresión Parabólica sobre Datos Experimentales](./Cuadratica/Ejemplo1.py)
+
+![Ejecución Ajuste Cuadrático Ejemplo 1](../img/T5_Ejemplo1_Cu.png)
+
+* [Ejemplo 2: Estimación de Tendencias y Cálculo de Coeficiente $R^2$](./Cuadratica/Ejemplo2.py)
+
+![Ejecución Ajuste Cuadrático Ejemplo 2](../img/T5_Ejemplo2_Cu.png)
+
+* [Ejemplo 3: Análisis de Residuos y Error Estándar de la Estimación](./Cuadratica/Ejemplo3.py)
+
+![Ejecución Ajuste Cuadrático Ejemplo 3](../img/T5_Ejemplo3_Cu.png)
 
 ### Lagrange
 #### Concepto
@@ -67,13 +86,23 @@ Dado un conjunto de n + 1 puntos distintos (x0, y0), (x1, y1), ..., (xn, yn) el 
   5. Simplificar
      *Simplificar 𝑃(𝑥) si es necesario para obtener el polinomio en su forma más simple.
 
-#### Implementación
-* [Ejemplo](./Lagrange/Ejemplo.py)
+### ### Ejemplo de Referencia
+* [Interpolación de Lagrange Base](./Lagrange/Ejemplo.py)
 
-#### Ejercicios
-* [Ejemplo 1](./Lagrange/Ejercicio1.py)
-* [Ejemplo 2](./Lagrange/Ejercicio2.py)
-* [Ejemplo 3](./Lagrange/Ejercicio3.py)
+![Ejecución Interpolación de Lagrange Base](../img/T5_Ejemplo_La.png)
+
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Interpolación Lineal y Cuadrática de Lagrange](./Lagrange/Ejemplo1.py)
+
+![Ejecución Interpolación de Lagrange Ejemplo 1](../img/T5_Ejemplo1_La.png)
+
+* [Ejemplo 2: Reconstrucción de Funciones con Nodos Igualmente Espaciados](./Lagrange/Ejemplo2.py)
+
+![Ejecución Interpolación de Lagrange Ejemplo 2](../img/T5_Ejemplo2_La.png)
+
+* [Ejemplo 3: Análisis del Fenómeno de Runge en Grados Altos](./Lagrange/Ejemplo3.py)
+
+![Ejecución Interpolación de Lagrange Ejemplo 3](../img/T5_Ejemplo3_La.png)
 
 ### Newton
 #### Concepto
@@ -94,10 +123,20 @@ Dado un conjunto de n+1 puntos distintos (x0, y0), (x1, y1), ..., (xn, yn).
      * Para cada 𝑘 desde 1 hasta 𝑛:
        *Añadir el término ak(x-x0)(x-x1)...(x-xk-1) al polinomio, donde ak = f[x0, x1, ..., xk]
 ​ ​ 
-#### Implementación
-* [Ejemplo](./Newton/Ejemplo.py)
+### ### Ejemplo de Referencia
+* [Interpolación de Newton Base](./Newton/Ejemplo.py)
 
-#### Ejercicios
-* [Ejemplo 1](./Newton/Ejercicio1.py)
-* [Ejemplo 2](./Newton/Ejercicio2.py)
-* [Ejemplo 3](./Newton/Ejercicio3.py)
+![Ejecución Interpolación de Newton Base](../img/T5_Ejemplo_N.png)
+
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Construcción de la Tabla de Diferencias Divididas](./Newton/Ejemplo1.py)
+
+![Ejecución Interpolación de Newton Ejemplo 1](../img/T5_Ejemplo1_N.png)
+
+* [Ejemplo 2: Interpolación de Datos con Espaciamiento Variable](./Newton/Ejemplo2.py)
+
+![Ejecución Interpolación de Newton Ejemplo 2](../img/T5_Ejemplo2_N.png)
+
+* [Ejemplo 3: Evaluación Comparativa de Error frente a Polinomios Reales](./Newton/Ejemplo3.py)
+
+![Ejecución Interpolación de Newton Ejemplo 3](../img/T5_Ejemplo3_N.png)
