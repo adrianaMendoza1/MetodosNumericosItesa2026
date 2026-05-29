@@ -33,11 +33,11 @@
         * [Cuadratica](./Tema%205/Cuadratica/Ejemplo.py)
         * [Lagrange](./Tema%205/Lagrange/Ejemplo.py)
         * [Newton](./Tema%205/Newton/Ejemplo.py)
-* [Tema 6: Métodos de Extrapolación](./Tema%206%20%5C%20Extrapolación/README.md)
-    * [Metodos de extrapolación](./Tema%206%20%5C%20Extrapolación/README.md)
-        * [Euler](./Tema%206%20%5C%20Extrapolación/Euler/Ejemplo.Py)
-        * [Runge-Kutta](./Tema%206%20%5C%20Extrapolación/Runge/Ejemplo.py)
-        * [Taylor](./Tema%206%20%5C%20Extrapolación/Taylor/Ejemplo.py)
+* [Tema 6: Métodos de Extrapolación](./Tema%206/README.md)
+    * [Métodos de extrapolación](./Tema%206/README.md)
+        * [Euler](./Tema%206/Euler/Ejemplo.py)
+        * [Runge-Kutta](./Tema%206/Runge/Ejemplo.py)
+        * [Taylor](./Tema%206/Taylor/Ejemplo.py)
 ## Conclusión
 
 Los métodos de Runge-Kutta, Euler y Taylor son herramientas fundamentales en la resolución numérica de ecuaciones diferenciales ordinarias (EDO). Runge-Kutta destaca por su precisión y versatilidad, siendo especialmente útil para problemas donde se requiere una alta precisión. Euler, aunque menos preciso, es simple y fácil de implementar, siendo útil como punto de partida en muchos casos. Taylor ofrece una precisión aún mayor al considerar términos de orden superior, pero su implementación puede ser más compleja. En conjunto, estos métodos ofrecen un amplio rango de opciones para abordar problemas donde no es posible encontrar soluciones analíticas exactas.
