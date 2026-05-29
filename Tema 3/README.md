@@ -28,20 +28,24 @@ El objetivo del método de Gauss es transformar un sistema de ecuaciones lineale
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo Detallado](./Tema%203/Eliminación%20Gaussiana/Ejemplo.py)
+### ### Ejemplo de Referencia
 
-Por ultimo se muestran los resultados obtenidos
+* [Eliminación Gaussiana Base](./Eliminación%20Gaussiana/Ejemplo.py)
 
-<p align="center">
-  <img src="![Gaussiana](../img/gaussiana.png)" alt="Método de ELIMINACIÓN GAUSSIANA" width="600px">
-</p>
+![Ejecución Eliminación Gaussiana Base](../img/T3_Ejemplo_EG.png)
 
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Sistema de 3x3 Determinado](./Eliminación%20Gaussiana/Ejemplo1.py)
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+![Ejecución Eliminación Gaussiana Ejemplo 1](../img/T3_Ejemplo1_EG.png)
 
-* [Ejemplo 1: Sistema 2x2](./Tema%203/Eliminación%20Gaussiana/Ejemplo1.py)
-* [Ejemplo 2: Sistema 3x3](./Tema%203/Eliminación%20Gaussiana/Ejemplo2.py)
-* [Ejemplo 3: Sistema 4x4](./Tema%203/Eliminación%20Gaussiana/Ejemplo3.py)
+* [Ejemplo 2: Matriz con Pivoteo Parcial](./Eliminación%20Gaussiana/Ejemplo2.py)
+
+![Ejecución Eliminación Gaussiana Ejemplo 2](../img/T3_Ejemplo2_EG.png)
+
+* [Ejemplo 3: Análisis de Sistema con Solución Única](./Eliminación%20Gaussiana/Ejemplo3.py)
+
+![Ejecución Eliminación Gaussiana Ejemplo 3](../img/T3_Ejemplo3_EG.png)
 
 ---
 
@@ -77,20 +81,22 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo Detallado Paso a Paso](./Tema%203/Gauss%20Jordan/Ejemplo.py)
+* [Gauss-Jordan Base](./Gauss%20Jordan/Ejemplo.py)
 
-Por ultimo se muestran los resultados obtenidos
+![Ejecución Gauss-Jordan Base](../img/T3_Ejemplo_GJ.png)
 
-<p align="center">
-  <img src="../img/gauss-jordan.png" width="600px">
-</p>
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Sistema de 3x3 Totalmente Determinado](./Gauss%20Jordan/Ejemplo1.py)
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+![Ejecución Gauss-Jordan Ejemplo 1](../img/T3_Ejemplo1_GJ.png)
 
-* [Ejemplo 1: Sistema 2x2](./Tema%203/Gauss%20Jordan/Ejemplo1.py)
-* [Ejemplo 2: Sistema 3x3](./Tema%203/Gauss%20Jordan/Ejemplo2.py)
-* [Ejemplo 3: Sistema 4x4](./Tema%203/Gauss%20Jordan/Ejemplo3.py)
+* [Ejemplo 2: Matriz Inversa por Gauss-Jordan](./Gauss%20Jordan/Ejemplo2.py)
 
+![Ejecución Gauss-Jordan Ejemplo 2](../img/T3_Ejemplo2_GJ.png)
+
+* [Ejemplo 3: Análisis de Matrices No Singulares](./Gauss%20Jordan/Ejemplo3.py)
+
+![Ejecución Gauss-Jordan Ejemplo 3](../img/T3_Ejemplo3_GJ.png)
 ---
 
 ## Metodo_de_Gauss-Seidel
@@ -120,20 +126,23 @@ El proceso comienza con una aproximación inicial de las soluciones del sistema.
 4. Salida: La solución aproximada x ^(k) se toma como la solución del sistema de ecuaciones lineales Ax=b.
 
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+### ### Ejemplo de Referencia
+* [Gauss-Seidel Base](./Gauss%20Seidel/Ejemplo.py)
 
-* [Ejemplo con Tabla de Iteraciones](./Tema%203/Gauss%20Seidel/Ejemplo.py)
+![Ejecución Gauss-Seidel Base](../img/T3_Ejemplo_GS.png)
 
-<p align="center">
-  <img src="../img/seidel.png" width="600px">
-</p>
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Matriz Diagonalmente Dominante](./Gauss%20Seidel/Ejemplo1.py)
 
+![Ejecución Gauss-Seidel Ejemplo 1](../img/T3_Ejemplo1_GS.png)
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+* [Ejemplo 2: Evaluación con Criterio de Tolerancia](./Gauss%20Seidel/Ejemplo2.py)
 
-* [Ejemplo 1: Sistema 3x3](./Tema%203/Gauss%20Seidel/Ejemplo1.py)
-* [Ejemplo 2: Sistema 2x2](./Tema%203/Gauss%20Seidel/Ejemplo2.py)
-* [Ejemplo 3: Sistema 4x4](./Tema%203/Gauss%20Seidel/Ejemplo3.py)
+![Ejecución Gauss-Seidel Ejemplo 2](../img/T3_Ejemplo2_GS.png)
+
+* [Ejemplo 3: Análisis de Convergencia Iterativa](./Gauss%20Seidel/Ejemplo3.py)
+
+![Ejecución Gauss-Seidel Ejemplo 3](../img/T3_Ejemplo3_GS.png)
 
 ---
 
@@ -178,17 +187,23 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-* [Ejemplo con Tabla de Convergencia](./Tema%203/Jacobi/Ejemplo.py)
+### ### Ejemplo de Referencia
+* [Jacobi Base](./Jacobi/Ejemplo.py)
 
-<p align="center">
-  <img src="../img/jacobi.png" width="600px">
-</p>
+![Ejecución Jacobi Base](../img/T3_Ejemplo_J.png)
 
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Matriz de Coeficientes Simétrica](./Jacobi/Ejemplo1.py)
 
-* [Ejemplo 1: Sistema 3x3](./Tema%203/Jacobi/Ejemplo1.py)
-* [Ejemplo 2: Sistema 2x2](./Tema%203/Jacobi/Ejemplo2.py)
-* [Ejemplo 3: Sistema 4x4](./Tema%203/Jacobi/Ejemplo3.py)
+![Ejecución Jacobi Ejemplo 1](../img/T3_Ejemplo1_J.png)
+
+* [Ejemplo 2: Evaluación de Convergencia con Épsilon](./Jacobi/Ejemplo2.py)
+
+![Ejecución Jacobi Ejemplo 2](../img/T3_Ejemplo2_J.png)
+
+* [Ejemplo 3: Análisis comparativo de Velocidad Iterativa](./Jacobi/Ejemplo3.py)
+
+![Ejecución Jacobi Ejemplo 3](../img/T3_Ejemplo3_J.png)
 
 ---
