@@ -24,15 +24,23 @@ El algoritmo para aplicar esta regla en un conjunto de datos sería:
   2. Para cada punto en los datos, calcular la aproximación de la derivada utilizando la fórmula mencionada anteriormente.
   3. Repetir el paso 2 para todos los puntos en los datos.
 
-#### Implementación
+### ### Ejemplo de Referencia
+* [Regla de 3 Puntos Base](./Regla%20de%203%20Puntos/Ejemplo.py)
 
-* [Ejemplo](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejemplo.py)
+![Ejecución Regla de 3 Puntos Base](../img/T4_Ejemplo_R3.png)
 
-#### Ejercicios
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Diferencia Central en un Polinomio](./Regla%20de%203%20Puntos/Ejemplo1.py)
 
-* [Ejercicio1](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejercicio1.py)
-* [Ejercicio2](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejercicio2.py)
-* [Ejercicio3](./Tema%204/Diferenciación/Regla%20de%20los%20tres%20puntos/Ejercicio3.py)
+![Ejecución Regla de 3 Puntos Ejemplo 1](../img/T4_Ejemplo1_R3.png)
+
+* [Ejemplo 2: Aproximaciones Progresivas y Regresivas en Fronteras](./Regla%20de%203%20Puntos/Ejemplo2.py)
+
+![Ejecución Regla de 3 Puntos Ejemplo 2](../img/T4_Ejemplo2_R3.png)
+
+* [Ejemplo 3: Análisis de Sensibilidad al Tamaño de Paso (h)](./Regla%20de%203%20Puntos/Ejemplo3.py)
+
+![Ejecución Regla de 3 Puntos Ejemplo 3](../img/T4_Ejemplo3_R3.png)
 
 ---
 
@@ -54,15 +62,23 @@ Formula:
 Al igual que con la regla de los tres puntos, la precisión de esta aproximación depende del tamaño de ℎ
 Se debe encontrar un valor óptimo para ℎ dependiendo de la función y los datos específicos.
 
-#### Implementación
+### ### Ejemplo de Referencia
+* [Regla de 5 Puntos Base](./Regla%20de%205%20Puntos/Ejemplo.py)
 
-* [Ejemplo](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejemplo.py)
+![Ejecución Regla de 5 Puntos Base](../img/T4_Ejemplo_R5.png)
 
-#### Ejercicios
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Derivada de Función Polinomial](./Regla%20de%205%20Puntos/Ejemplo1.py)
 
-* [Ejercicio1](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejercicio1.py)
-* [Ejercicio2](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejercicio2.py)
-* [Ejercicio3](./Tema%204/Diferenciación/Regla%20de%20los%20cinco%20puntos/Ejercicio3.py)
+![Ejecución Regla de 5 Puntos Ejemplo 1](../img/T4_Ejemplo1_R5.png)
+
+* [Ejemplo 2: Evaluación en Funciones Trigonométricas](./Regla%20de%205%20Puntos/Ejemplo2.py)
+
+![Ejecución Regla de 5 Puntos Ejemplo 2](../img/T4_Ejemplo2_R5.png)
+
+* [Ejemplo 3: Análisis de Error frente a Diferencias Centrales](./Regla%20de%205%20Puntos/Ejemplo3.py)
+
+![Ejecución Regla de 5 Puntos Ejemplo 3](../img/T4_Ejemplo3_R5.png)
 ---
 
 ## Metodos_de_integración
@@ -91,15 +107,24 @@ Formula:
   7. Sumar 𝑓(𝑎), 2∑𝑖=1, 𝑛−1,𝑓(𝑥𝑖) y 𝑓(𝑏).
   8. Multiplicar la suma por ℎ/2 para obtener la aproximación de la integral.
 
-#### Implementación
+### ### Ejemplo de Referencia
+* [Método del Trapecio Base](./Trapecio/Ejemplo.py)
 
-* [Ejemplo](./Tema%204/Integración/Trapecio/Ejemplo.py)
+![Ejecución Método del Trapecio Base](../img/T4_Ejemplo_Tra.png)
 
-#### Ejercicios
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Regla del Trapecio Simple](./Trapecio/Ejemplo1.py)
 
-* [Ejercicio1](./Tema%204/Integración/Trapecio/Ejercicio1.py)
-* [Ejercicio2](./Tema%204/Integración/Trapecio/Ejercicio2.py)
-* [Ejercicio3](./Tema%204/Integración/Trapecio/Ejercicio3.py)
+![Ejecución Método del Trapecio Ejemplo 1](../img/T4_Ejemplo1_Tra.png)
+
+* [Ejemplo 2: Regla del Trapecio Compuesta con n Subintervalos](./Trapecio/Ejemplo2.py)
+
+![Ejecución Método del Trapecio Ejemplo 2](../img/T4_Ejemplo2_Tra.png)
+
+* [Ejemplo 3: Análisis de Convergencia del Error del Trapecio](./Trapecio/Ejemplo3.py)
+
+![Ejecución Método del Trapecio Ejemplo 3](../img/T4_Ejemplo3_Tra.png)
+
 ---
 
 ### Regla_de_Simpson
@@ -124,16 +149,25 @@ Formula:
   7. Sumar 𝑓(𝑎), 4∑𝑖=1, 𝑛/2, 𝑓(𝑥2𝑖-1), 2∑𝑖=1, 𝑛/2-1, 𝑓(𝑥2𝑖) y 𝑓(𝑏).
   8. Multiplicar la suma por ℎ/3 para obtener la aproximación de la integral.
 
-#### Implementación
+### ### Ejemplo de Referencia
+* [Método de Simpson Base](./Simpson/Ejemplo.py)
 
-* [Ejemplo](./Tema%204/Integración/Simpson/Ejemplo.py)
+![Ejecución Método de Simpson Base](../img/T4_Ejemplo_Sim.png)
 
 
-#### Ejercicios
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Regla de Simpson 1/3 Compuesta](./Simpson/Ejemplo1.py)
 
-* [Ejercicio1](./Tema%204/Integración/Simpson/Ejercicio1.py)
-* [Ejercicio2](./Tema%204/Integración/Simpson/Ejercicio2.py)
-* [Ejercicio3](./Tema%204/Integración/Simpson/Ejercicio3.py)
+![Ejecución Método de Simpson Ejemplo 1](../img/T4_Ejemplo1_Sim.png)
+
+* [Ejemplo 2: Regla de Simpson 3/8 para Intervalos Impares](./Simpson/Ejemplo2.py)
+
+![Ejecución Método de Simpson Ejemplo 2](../img/T4_Ejemplo2_Sim.png)
+
+* [Ejemplo 3: Comparación de Errores vs Regla del Trapecio](./Simpson/Ejemplo3.py)
+
+![Ejecución Método de Simpson Ejemplo 3](../img/T4_Ejemplo3_Sim.png)
+
 ---
 
 ### Método_de_la_cuadratura_gaussiana
@@ -153,13 +187,21 @@ Formula:
   2. Cálculo de la aproximación de la integral:
      Una vez que se han determinado los puntos de integración y sus pesos, la aproximación de la integral se calcula evaluando la función 𝑓(𝑥) en estos puntos y multiplicándola por los pesos correspondientes, y luego sumando estos productos.
 
-#### Implementación
+### ### Ejemplo de Referencia
+* [Cuadratura Gaussiana Base](./Cuadratura%20Gaussiana/Ejemplo.py)
 
-* [Ejemplo](./Tema%204/Integración/Cuadratura%20Gaussiana/Ejemplo.py)
+![Ejecución Cuadratura Gaussiana Base](../img/T4_Ejemplo_CG.png)
 
-#### Ejercicios
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Integración con 2 y 3 Puntos de Gauss](./Cuadratura%20Gaussiana/Ejemplo1.py)
 
-* [Ejercicio1](./Tema%204/Integración/Cuadratura%20Gaussiana/Ejercicio1.py)
-* [Ejercicio2](./Tema%204/Integración/Cuadratura%20Gaussiana/Ejercicio2.py)
-* [Ejercicio3](./Tema%204/Integración/Cuadratura%20Gaussiana/Ejercicio3.py)
+![Ejecución Cuadratura Gaussiana Ejemplo 1](../img/T4_Ejemplo1_CG.png)
+
+* [Ejemplo 2: Cambio de Intervalo de Integración a [-1, 1]](./Cuadratura%20Gaussiana/Ejemplo2.py)
+
+![Ejecución Cuadratura Gaussiana Ejemplo 2](../img/T4_Ejemplo2_CG.png)
+
+* [Ejemplo 3: Análisis de Precisión en Funciones Complejas](./Cuadratura%20Gaussiana/Ejemplo3.py)
+
+![Ejecución Cuadratura Gaussiana Ejemplo 3](../img/T4_Ejemplo3_CG.png)
 ---
