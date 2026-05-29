@@ -33,13 +33,23 @@ El método de Euler es un algoritmo numérico utilizado para aproximar solucione
     11. Imprimir las iteraciones en formato de tabla.
 ```
 
-#### Implementación
-* [Ejemplo](./Euler/Ejemplo.Py)
+### ### Ejemplo de Referencia
+* [Método de Euler Base](./Euler/Ejemplo.py)
 
-#### Ejercicios
-* [Ejemplo 1](./Euler/Ejemplo1.py)
-* [Ejemplo 2](./Euler/Ejemplo2.py)
-* [Ejemplo 3](./Euler/Ejemplo3.py)
+![Ejecución Método de Euler Base](../img/T6_Ejemplo_Eu.png)
+
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Solución de un PVI Lineal de Primer Grado](./Euler/Ejemplo1.py)
+
+![Ejecución Método de Euler Ejemplo 1](../img/T6_Ejemplo1_Eu.png)
+
+* [Ejemplo 2: Análisis del Impacto del Tamaño de Paso (h) en la Estabilidad](./Euler/Ejemplo2.py)
+
+![Ejecución Método de Euler Ejemplo 2](../img/T6_Ejemplo2_Eu.png)
+
+* [Ejemplo 3: Estimación y Gráfica del Error Global de Truncamiento](../Euler/Ejemplo3.py)
+
+![Ejecución Método de Euler Ejemplo 3](../img/T6_Ejemplo3_Eu.png)
 
 ---
 
@@ -66,13 +76,24 @@ En el contexto del programa proporcionado, el método de Runge-Kutta de cuarto o
     6. Mostrar los resultados, mostrando x, la solución exacta y la solución aproximada obtenida con el método de Runge-Kutta en cada iteración.
 ```
 
-#### Implementación
-* [Ejemplo](./Runge/Ejemplo.py)
+### ### Ejemplo de Referencia
+* [Método de Runge-Kutta Base](./Runge-Kutta/Ejemplo.py)
 
-#### Ejercicios
-* [Ejemplo 1](./Runge/Ejemplo1.py)
-* [Ejemplo 2](./Runge/Ejemplo2.py)
-* [Ejemplo 3](./Runge/Ejemplo3.py)
+![Ejecución Método de Runge-Kutta Base](../img/T6_Ejemplo_RK.png)
+
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Solución de EDO de Alta Precisión](./Runge-Kutta/Ejemplo1.py)
+
+![Ejecución Método de Runge-Kutta Ejemplo 1](../img/T6_Ejemplo1_RK.png)
+
+* [Ejemplo 2: Comparativa de Convergencia RK4 vs Euler](../Runge-Kutta/Ejemplo2.py)
+
+![Ejecución Método de Runge-Kutta Ejemplo 2](../img/T6_Ejemplo2_RK.png)
+
+* [Ejemplo 3: Aplicación a un Modelo Físico/Dinámico](../Runge-Kutta/Ejemplo3.py)
+
+![Ejecución Método de Runge-Kutta Ejemplo 3](../img/T6_Ejemplo3_RK.png)
+
 ---
 
 ### Taylor
@@ -105,11 +126,21 @@ La idea principal es que la solución de una EDO puede ser expresada como una su
     11. Imprimir las iteraciones en formato de tabla.
 ```
 
-#### Implementación
-* [Ejemplo](./Taylor/Ejemplo.py)
+### ### Ejemplo de Referencia
+* [Método de Series de Taylor Base](./Taylor/Ejemplo.py)
 
-#### Ejercicios
-* [Ejemplo 1](./Taylor/Ejemplo1.py)
-* [Ejemplo 2](./Taylor/Ejemplo2.py)
-* [Ejemplo 3](./Taylor/Ejemplo3.py)
+![Ejecución Método de Series de Taylor Base](../img/T6_Ejemplo_Tay.png)
+
+### ### Ejemplos Prácticos
+* [Ejemplo 1: Aproximación de Segundo Orden](./Taylor/Ejemplo1.py)
+
+![Ejecución Método de Series de Taylor Ejemplo 1](../img/T6_Ejemplo1_Tay.png)
+
+* [Ejemplo 2: Análisis de Convergencia al Incrementar el Grado del Polinomio](./Taylor/Ejemplo2.py)
+
+![Ejecución Método de Series de Taylor Ejemplo 2](../img/T6_Ejemplo2_Tay.png)
+
+* [Ejemplo 3: Comparativa de Error Residual vs Solución Analítica](./Taylor/Ejemplo3.py)
+
+![Ejecución Método de Series de Taylor Ejemplo 3](../img/T6_Ejemplo3_Tay.png)
 ---
